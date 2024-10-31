@@ -1,2 +1,2 @@
-# uht-langs
-To mock up better featuring of of third languages documents available
+# parissa-test
+for quick-mockup projects that don't need their own repos
